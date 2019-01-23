@@ -1,0 +1,4 @@
+module CNIOSHA1 {
+    umbrella "/Users/jimallan/Downloads/Server_Side_Swift_with_Vapor_v1.0.1/16-making-simple-web-app copy/starter copy/TILApp/.build/checkouts/swift-nio.git-764185542090924120/Sources/CNIOSHA1/include"
+    export *
+}
